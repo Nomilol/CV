@@ -54,3 +54,32 @@ body{
 	font-style: italic;
 	font-weight: bold;
 }
+
+
+.experiences h3{
+	border : solid black 2px;
+	background-color: purple;
+	text-align: center;
+}
+
+
+.formations h3{
+	border : solid black 2px;
+	background-color: purple;
+	text-align: center;
+
+}
+
+
+.competences h3{
+	border : solid black 2px;
+	background-color: purple;
+	text-align: center;
+}
+
+
+.centres_intérêts h3{
+	border : solid black 2px;
+	background-color: purple;
+	text-align: center;
+}
