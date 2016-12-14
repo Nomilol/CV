@@ -9,12 +9,15 @@ h1{
 }
 
 
+
+
 .informations {
 	margin-left : 80%;
 }
 
 .informations li{
 	list-style-type: none;
+	font-size: 20px;
 }
 
 .adjectifs {
