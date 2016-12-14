@@ -1,85 +1,75 @@
 h1{
-	text-align: center;
-	color: purple;
+	text-align : center;
+}
+
+.informations {
+	display : flex;
+	width : 23em;
 	
 }
 
-body{
-	background-color: grey;
-	list-style: none;
-}	
 
-.informations ul{
+.informations {
+	margin-left : 80%;
+}
+
+.informations li{
+	list-style-type: none;
+}
+
+.adjectifs {
+	text-align: center;
+}
+
+li{
+	list-style-type: none;
+}
+
+.en_tete{
+	background-color: purple;
+}
+
+.reseau a{
+	color : black;
+}
+
+
+
+.experiences{
+	text-align : center;
+	padding-top : 20px;
+	background-color: black;
+	color: #FFF;
+	font-size: 18px;
+	padding-bottom: 15px;
+}
+.formations{
+	text-align: center;
+	font-size: 18px;
+}
+
+.competences{
+	font-size: 18px;
+	text-align: center;
+}
+
+.centres_interets{
+	font-size: 18px;
+	background-color: purple;
+}
+
+.informations li{
 	font-weight: bold;
-	list-style: none;
-	padding-left: 0px;
-	
-	
 }
 
-.adjectifs{
-	text-align: center;
+.experiences li{
 	font-style: italic;
-	font-size: 25px;
-
 }
 
-
-.reseau ul{
-	list-style: none;
-	display: flex;
-	justify-content: flex-end;
-	margin-right: 20px;
-
-	
-
-}
-
-.reseau li{
-	margin-right: 20px;
-}
-
-.color_bleu i{
-	color: #353866;
-}
-
-
-
-
-.color_blue i{
-	color: #41D3BD;
-}
-
-.company{
-	font-style: italic;
-	font-weight: bold;
-}
-
-
-.experiences h3{
-	border : solid black 2px;
-	background-color: purple;
+.centres_interets{
 	text-align: center;
 }
 
-
-.formations h3{
-	border : solid black 2px;
-	background-color: purple;
-	text-align: center;
-
-}
-
-
-.competences h3{
-	border : solid black 2px;
-	background-color: purple;
-	text-align: center;
-}
-
-
-.centres_intérêts h3{
-	border : solid black 2px;
-	background-color: purple;
-	text-align: center;
+.punchline{
+	padding-bottom : 75px;
 }
